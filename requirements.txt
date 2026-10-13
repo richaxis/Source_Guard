@@ -1,0 +1,2 @@
+# Contract dependency is declared in contracts/source_guard.py for GenLayer Studio.
+# No additional local Python packages are required for the offline design checks.
